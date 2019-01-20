@@ -1,2 +1,2 @@
 # GitHubTest02.2
-Retesting GitHub
+Testing creatinga Unity Proejct Repository on GitHub
